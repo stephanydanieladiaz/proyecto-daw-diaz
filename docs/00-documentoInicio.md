@@ -47,7 +47,8 @@
 |2|Formulario de publicación: Interfaz para subir por capas: concepto/boceto, paleta de colores y pieza final.|Sí|
 |3|Feed de exploración: Retícula interactiva de proyectos con filtros por categoría, paleta de colores o disciplina.|Sí |
 |4|Sistema de colecciones/favoritos: Posibilidad de guardar proyectos en listas de inspiración|Sí |
-|5|Selector de modo claro/oscuro|No|
+|5|Módulo de comunidad / Feedback: Espacio opcional para que los creadores pregunten dudas o pidan opiniones sobre sus obras.|No|
+|6|Selector de modo claro/oscuro|No|
 
 ## 7. Tecnologías previstas
 
