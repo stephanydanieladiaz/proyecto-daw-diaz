@@ -55,7 +55,7 @@ Los diseñadores gráficos, ilustradores y creadores visuales sufren la pérdida
 | **4** | Espacio de comunidad y visualización limpia sin saturación publicitaria | Quejas públicas sobre plataformas masivas | Mejora la experiencia de inspiración frente a entornos altamente mercantilizados y repletos de anuncios. |
 
 ### Dato cuantitativo y análisis de oportunidad
-* **Dato de mercado:** Según las estadísticas culturales de **Eurostat** sobre empleo en el sector creativo y cultural, Europa cuenta con más de **7,7 millones de profesionales** dedicados a actividades creativas y de diseño, un sector altamente digitalizado pero fragmentado en cuanto a herramientas de inspiración independientes (Fuente: *Eurostat - Culture statistics*, acceso 19-11-2026, https://ec.europa.eu/eurostat).
+* **Dato de mercado:** Según las estadísticas culturales de **Eurostat** sobre empleo en el sector creativo y cultural, Europa cuenta con más de **7,7 millones de profesionales** dedicados a actividades creativas y de diseño, un sector altamente digitalizado pero fragmentado en cuanto a herramientas de inspiración independientes (Fuente: *Eurostat - Culture statistics*, acceso 2026-11-19, https://ec.europa.eu/eurostat).
 * **Valoración de la oportunidad:** Existe una demanda clara y desatendida por parte de estudios independientes e ilustradores que buscan una plataforma propia donde inspirarse y mostrar su proceso sin quedar sepultados por los algoritmos publicitarios de las grandes redes generalistas.
 
 ---
