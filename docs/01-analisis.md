@@ -2,50 +2,76 @@
 
 > **Plantilla.** Se entrega como **H1 el 26-nov-2026**. Cada apartado indica el criterio de evaluación (CE) que evidencia y qué se espera. Borra las notas en cursiva al rellenar.
 
-## 1. Sector y empresas (CE 1a, 1b)
+## 1. Sector y empresas del sector (CE 1a, 1b)
 
-*Clasificación de empresas del sector*
+### Delimitación del sector y código CNAE
+* **Sector:** Actividades de diseño especializado (diseño gráfico, identidad visual, ilustración y dirección de arte). Es el sector de los profesionales y estudios creativos a los que ayuda la plataforma **Kreato**.
+* **Código CNAE (2025)**: 74.11 (Diseño gráfico y servicios de diseño especializado) — (Sustituye al antiguo 7410 del CNAE 2009).
 
-| Empresas del sector | Características organizativas | servicio que ofrecen | 
-|---|---|---|
-| Pinterest | Empresa tecnológica global basada en descubrimiento visual y gestión masiva de contenidos mediante algoritmos de recomendación. |Plataforma web y móvil para descubrir, guardar y organizar ideas e imágenes visuales mediante tableros y pines.|
-|Behance|Plataforma comunitaria global (perteneciente a Adobe) centrada en la exposición de portafolios detallados de diseño y arte profesional.|Espacio digital donde diseñadores e ilustradores muestran proyectos detallados y su proceso creativo para recibir feedback y visibilidad.|
-|Dribble| Red social de networking y escaparate en creativos digitales con un modelo de contratación y empleo.|Publicación de micro-portafolios y muestras rápidas de diseño UI/UX, conectando talento directamente cib empresas que buscan contratar.|
-|The desing blog|Publicación digital independiente comisariada por diseñadores para destacar trabajos del sector.|Blog de curación y contenido que muestra y reseña diariamente proyectos excepcionales de diseño gráfico, web y branding de todo el mundo.|
-|Awwwards|Una de las referencias más conocidas para analizar diseño web de alto nivel. Reúne proyectos donde se combinan dirección de arte, interacción, contenido, animación y desarrollo front-end|Plataforma de concurso y premios (Site of the Day/Month) que analza y galardona las mejores webs combinando dirección de arte, interacción y desarrollo front-end.|
+### Clasificación de empresas del sector
+| Empresa | Tamaño | Forma jurídica | Ámbito | Servicio | Fuente y fecha | Estado |
+|---|---|---|---|---|---|---|
+| **Mucho** | Mediana (~30-40 personas) | S. L. | Internacional (sedes en Barcelona, París, San Francisco) | Consultoría de diseño gráfico, identidad corporativa y estrategia de marca. | https://wearemuch.com (acceso 19-11-2026) | `leído` |
+| **Estudio Pep Carrió** | Microempresa (1-5 personas) | Autónomo / Estudio | Nacional (Madrid) | Diseño gráfico editorial, cartelería, identidad visual e ilustración. | https://pepcarrio.com (acceso 19-11-2026) | `leído` |
+| **Folch Studio** | Pequeña (~15-25 personas) | S. L. | Internacional (Barcelona) | Agencia creativa, dirección de arte, narrativa visual y diseño digital. | https://folchstudio.com (acceso 19-11-2026) | `leído` |
+| **Erretres** | Pequeña (~20-30 personas) | S. L. | Nacional / Internacional (Madrid) | Consultoría de diseño estratégico, branding y experiencia digital. | https://erretres.com (acceso 19-11-2026) | `leído` |
+| **Summa Branding** | Mediana (~40-50 personas) | S. L. | Nacional / Internacional (Madrid y Barcelona) | Creación, gestión y transformación de marcas y diseño de experiencias. | https://summa.es (acceso 19-11-2026) | `leído` |
 
-*Descripción detallada de una empresa tipo (Plataforma de portafolios e inspiración visual)*
+### Agrupación de empresas
+* **Estudios boutique / Microempresas creativas:** *Estudio Pep Carrió* (equipos muy reducidos, trato directo con el cliente y enfoque artesanal en branding e ilustración).
+* **Agencias de diseño de tamaño pequeño-mediano:** *Folch Studio* y *Erretres* (equipos multidisciplinares que combinan diseño gráfico con estrategia y entornos digitales).
+* **Consultoras medianas / grandes de branding:** *Mucho* y *Summa Branding* (estructuras con varias sedes y proyectos corporativos de gran escala).
+
+### Empresa tipo y estructura
+* **Empresa tipo elegida:** **Estudio Pep Carrió** (dentro del grupo de *Estudios boutique / Microempresas creativas*).
+* **Por qué:** Porque representa el perfil exacto del usuario principal de **Kreato**: un estudio pequeño de diseño gráfico e ilustración que necesita encontrar inspiración cromática rápidamente y mostrar su portafolio con autoría verificada para captar clientes.
+
 ```mermaid
 graph TD
-    A[Dirección General / CEO] --> B[Producto y Diseño UI/UX]
-    A --> C[Desarrollo Tecnológico / Engineering]
-    A --> D[Comunidad y Moderación]
-    A --> E[Marketing y Crecimiento]
+    A[Dirección Creativa] --> B[Diseño Gráfico y Branding]
+    A --> C[Diseño Digital e Ilustración]
+    A --> D[Gestión de Proyectos y Administración]
 ```
-- **Dirección General (CEO)**: Define la visión estratégica, la hoja de ruta del producto y la sostenibilidad económica de la plataforma.
-- **Producto y Diseño UI/UX**: Diseña la experiencia de usuario, la arquitectura de información, las retículas visuales y el sistema de diseño de la interfaz.
-- **Desarrollo Tecnológico (Engineering)**: Desarrolla y mantiene la aplicación web (front-end y back-end), las bases de datos, los motores de búsqueda y la infraestructura en la nube.
-- **Comunidad y Moderación**: Supervisa la calidad de las publicaciones, gestiona las verificaciones de autoría, previene el plagio y da soporte a los creadores.
-- **Marketing y Crecimiento**: Gestiona las alianzas con escuelas de diseño o estudios, las campañas de captación de talento y la comunicación de marca.
+***Funciones de cada departamento:***
 
-## 2. Necesidades y oportunidades (CE 1c, 1d)
+- **Dirección Creativa:** Define el concepto visual de cada encargo, supervisa la calidad estética y se comunica directamente con los clientes y el resto de departamentos.
+- **Diseño Gráfico y Branding:** Desarrolla las identidades visuales, tipografías, paletas de colores y materiales impresos, coordinándose con el área digital para mantener la coherencia.
+- **Diseño Digital e Ilustración:** Crea ilustraciones personalizadas, interfaces web y activos visuales, apoyándose en Dirección Creativa para validar el estilo.
+- **Gestión de Proyectos y Administración:** Controla los presupuestos, plazos de entrega, facturación y relación con proveedores externos.
 
-**Lista priorizada de necesidades:**
-- 1. Búsqueda precisa por paleta de colores y etiquetas técnicas (Prioridad: Alta): Los diseñadores e ilustradores necesitan filtrar referentes combinando estilos/herramientas con armonías cromáticas exactas, algo muy impreciso en plataformas generalistas. Criterio: Impacto directo en el flujo de trabajo diario del usuario. Fuente: Observación directa y análisis de interfaces en el Estado del Arte
+## 2. Necesidades del sector y oportunidad de mercado (CE 1c, 1d)
 
-- 2. Verificación de autoría original (Prioridad: Alta): En redes visuales masivas como Pinterest es habitual la resubida anónima de ilustraciones y diseños sin acreditar al creador. Se requiere un distintivo claro que proteja y dé visibilidad al autor real. Criterio: Necesidad crítica del colectivo creativo para proteger su portafolio. Fuente: Quejas recurrentes en comunidades de diseño y comparativa de plataformas.
+### Problema principal
+Los diseñadores gráficos, ilustradores y creadores visuales sufren la pérdida de atribución de autoría en internet y tienen dificultades para encontrar inspiración visual organizada por gamas cromáticas y procesos creativos reales (bocetos y fases de trabajo), ya que las plataformas actuales priorizan el contenido masivo sin proteger al autor original.
 
-- 3. Interfaz limpia, visual y equilibrada (Prioridad: Media): Se demanda una experiencia de navegación sin publicidad invasiva ni ruido comercial, pero manteniendo un diseño atractivo, moderno y visualmente estimulante (evitando interfaces excesivamente frías o puramente textuales). Criterio: Mejora de la experiencia de usuario (UX) y retención visual. Fuente: Análisis de usabilidad frente a redes saturadas de anuncios.
- 
-**Oportunidades de negocio:**
-- Dato cuantitativo: Según los datos oficiales de Eurostat (Culture statistics - cultural employment), las industrias culturales y creativas en la Unión Europea emplean a más de 7,7 millones de personas (alrededor del 3,8 % del empleo total de la UE), destacando una alta proporción de trabajadores autónomos (freelance) y microempresas en disciplinas visuales que dependen de escaparates digitales para mostrar su trabajo y encontrar referentes.
-- Fuente: Eurostat – Culture statistics (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Culture_statistics_-_cultural_employment).
+### Necesidades priorizadas del sector
+*Criterio de ordenación:* Se priorizan aquellas necesidades que son mencionadas por un mayor número de soluciones analizadas en el Estado del Arte y cuyo déficit genera una mayor pérdida de tiempo o valor para el creador.
 
-## 3. Tipo de proyecto elegido (CE 1e)
+| Prioridad | Necesidad | Fuente | Por qué ocupa este puesto |
+|---|---|---|---|
+| **1** | Búsqueda y filtrado visual avanzado por paletas de color y etiquetas | Soluciones SOTA (Coolors, Pinterest) | Es la herramienta principal que demandan los creativos para agilizar sus procesos de diseño conceptual. |
+| **2** | Protección y verificación estricta de la autoría original de las obras | Reseñas de creadores / Foros de diseño | Evita el plagio y la pérdida de atribución, una de las mayores quejas en redes visuales masivas. |
+| **3** | Desglose visible del proceso creativo (bocetos, paletas y resultado final) | Análisis de portafolios (Behance, Dribbble) | Permite entender el flujo de trabajo real del autor, algo que los portafolios estáticos tradicionales no muestran de forma integrada. |
+| **4** | Espacio de comunidad y visualización limpia sin saturación publicitaria | Quejas públicas sobre plataformas masivas | Mejora la experiencia de inspiración frente a entornos altamente mercantilizados y repletos de anuncios. |
 
-**Proyecto elegido**: Una aplicación web interactiva de portafolios e inspiración visual enfocada en creativos, destacando por un buscador combinado de paletas de colores y etiquetas, y un sistema de verificación de autor original.
+### Dato cuantitativo y análisis de oportunidad
+* **Dato de mercado:** Según las estadísticas culturales de **Eurostat** sobre empleo en el sector creativo y cultural, Europa cuenta con más de **7,7 millones de profesionales** dedicados a actividades creativas y de diseño, un sector altamente digitalizado pero fragmentado en cuanto a herramientas de inspiración independientes (Fuente: *Eurostat - Culture statistics*, acceso 19-11-2026, https://ec.europa.eu/eurostat).
+* **Valoración de la oportunidad:** Existe una demanda clara y desatendida por parte de estudios independientes e ilustradores que buscan una plataforma propia donde inspirarse y mostrar su proceso sin quedar sepultados por los algoritmos publicitarios de las grandes redes generalistas.
 
-**¿Por qué frente a otras alternativas?**: Frente a crear un clon de Pinterest (donde el contenido carece de atribución y la búsqueda cromática es imprecisa) o desarrollar una red social masiva con funcionalidades inabarcables para una sola persona, este enfoque resuelve dos problemas reales del sector creativo con un alcance técnico realista, equilibrando el diseño de interfaz (UI/UX) y la programación en entorno cliente para llegar al hito de entrega con un producto sólido y funcional.
+---
+
+## 3. Tipo de proyecto elegido y alternativas (CE 1e)
+
+Para dar respuesta a las necesidades del sector, se han valorado tres posibles alternativas técnicas antes de tomar la decisión definitiva:
+
+| Opción de proyecto | Coste | Tiempo estimado | Encaje con mis conocimientos (Ciclo DAW) |
+|---|---|---|---|
+| **Aplicación web a medida (Frontend interactivo con feed y filtros)** | Medio | Medio / Alto | Alto ( HTML5, Tailwind CSS y JavaScript ES6+ adaptados a los contenidos del ciclo). |
+| **Adaptar un gestor de contenidos existente (WordPress / CMS)** | Bajo | Bajo | Medio (implica lidiar con plugins pesados y limitaciones de diseño personalizado). |
+| **Desarrollo de aplicación móvil nativa** | Alto | Muy alto | Bajo (excede el ámbito web principal del ciclo formativo y requiere entornos específicos). |
+
+* **Justificación de la elección:** Se elige desarrollar una **aplicación web a medida (Kreato)**. Se desarta adaptar un CMS tradicional porque limita el control estricto sobre el diseño visual y el sistema de filtrado cromático personalizado, y se descarta la app móvil nativa porque el alcance y los plazos temporales del ciclo formativo están orientados al entorno web.
+
 
 ## 4. Requisitos y restricciones (CE 1f)
 
