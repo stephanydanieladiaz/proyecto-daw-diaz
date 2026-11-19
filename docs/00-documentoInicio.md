@@ -16,12 +16,12 @@
 
 ## 2. Nombre del proyecto
 
-*Kreato.*
-*Plataforma web de inspiración visual y portafolios interactivos orientada a diseñadores gráficos, ilustradores y creadores digitales.*
+**Kreato.**
+Plataforma web de inspiración visual y portafolios interactivos orientada a diseñadores gráficos, ilustradores y creadores digitales.
 
 ## 3. Qué quiero hacer
 
-*Kreato es una aplicación web pensada para que la comunidad creativa visual pueda subir, mostrar y descubrir proyectos profesionales. La plataforma permite a cada creador publicar su trabajo mostrando no solo el resultado final en alta resolución, sino también el desglose del proceso (bocetos y paleta de colores utilizada). Los usuarios pueden explorar un feed dinámico, aplicar filtros por categoría, disciplina o por busqueda de colores, guardar proyectos en colecciones de inspiración y visitar los perfiles individuales de otros creadores. Se utilizará a través del navegador web o en el escritorio.*
+**Kreato** es una aplicación web pensada para que la comunidad creativa visual pueda subir, mostrar y descubrir proyectos profesionales. La plataforma permite a cada creador publicar su trabajo mostrando no solo el resultado final en alta resolución, sino también el desglose del proceso (bocetos y paleta de colores utilizada). Los usuarios pueden explorar un feed dinámico, aplicar filtros por categoría, disciplina o por busqueda de colores, guardar proyectos en colecciones de inspiración y visitar los perfiles individuales de otros creadores. Se utilizará a través del navegador web o en el escritorio.
 
 ## 4. Qué problema o necesidad resuelve
 
@@ -35,7 +35,7 @@
 
 ## 5. Para quién
 
-*Está dirigida a estudiantes, diseñadores gráficos, ilustradores, artistas digitales y profesionales del sector visual. Se usará principalmente en entornos profesionales y personales, tanto por creadores que buscan promocionar su trabajo como por personas del sector que buscan inspiración o referentes visuales para sus proyectos.*
+Está dirigida a estudiantes, diseñadores gráficos, ilustradores, artistas digitales y profesionales del sector visual. Se usará principalmente en entornos profesionales y personales, tanto por creadores que buscan promocionar su trabajo como por personas del sector que buscan inspiración o referentes visuales para sus proyectos.
 
 ## 6. Funcionalidades principales
 
@@ -104,3 +104,4 @@
 **Fecha:** 
 
 **Comentarios del tutor:**
+
