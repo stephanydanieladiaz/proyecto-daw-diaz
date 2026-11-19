@@ -11,11 +11,11 @@
 ### Clasificación de empresas del sector
 | Empresa | Tamaño | Forma jurídica | Ámbito | Servicio | Fuente y fecha | Estado |
 |---|---|---|---|---|---|---|
-| **Mucho** | Mediana (~30-40 personas) | S. L. | Internacional (sedes en Barcelona, París, San Francisco) | Consultoría de diseño gráfico, identidad corporativa y estrategia de marca. | https://wearemuch.com (acceso 19-11-2026) | `leído` |
-| **Estudio Pep Carrió** | Microempresa (1-5 personas) | Autónomo / Estudio | Nacional (Madrid) | Diseño gráfico editorial, cartelería, identidad visual e ilustración. | https://pepcarrio.com (acceso 19-11-2026) | `leído` |
-| **Folch Studio** | Pequeña (~15-25 personas) | S. L. | Internacional (Barcelona) | Agencia creativa, dirección de arte, narrativa visual y diseño digital. | https://folchstudio.com (acceso 19-11-2026) | `leído` |
-| **Erretres** | Pequeña (~20-30 personas) | S. L. | Nacional / Internacional (Madrid) | Consultoría de diseño estratégico, branding y experiencia digital. | https://erretres.com (acceso 19-11-2026) | `leído` |
-| **Summa Branding** | Mediana (~40-50 personas) | S. L. | Nacional / Internacional (Madrid y Barcelona) | Creación, gestión y transformación de marcas y diseño de experiencias. | https://summa.es (acceso 19-11-2026) | `leído` |
+| **Mucho** | Mediana (~30-40 personas) | S. L. | Internacional (sedes en Barcelona, París, San Francisco) | Consultoría de diseño gráfico, identidad corporativa y estrategia de marca. | https://wearemuch.com (acceso 2026-11-19) | `leído` |
+| **Estudio Pep Carrió** | Microempresa (1-5 personas) | Autónomo / Estudio | Nacional (Madrid) | Diseño gráfico editorial, cartelería, identidad visual e ilustración. | https://pepcarrio.com (acceso 2026-11-19) | `leído` |
+| **Folch Studio** | Pequeña (~15-25 personas) | S. L. | Internacional (Barcelona) | Agencia creativa, dirección de arte, narrativa visual y diseño digital. | https://folchstudio.com (acceso 2026-11-19) | `leído` |
+| **Erretres** | Pequeña (~20-30 personas) | S. L. | Nacional / Internacional (Madrid) | Consultoría de diseño estratégico, branding y experiencia digital. | https://erretres.com (acceso 2026-11-19) | `leído` |
+| **Summa Branding** | Mediana (~40-50 personas) | S. L. | Nacional / Internacional (Madrid y Barcelona) | Creación, gestión y transformación de marcas y diseño de experiencias. | https://summa.es (acceso 2026-11-19) | `leído` |
 
 ### Agrupación de empresas
 * **Estudios boutique / Microempresas creativas:** *Estudio Pep Carrió* (equipos muy reducidos, trato directo con el cliente y enfoque artesanal en branding e ilustración).
