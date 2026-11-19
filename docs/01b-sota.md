@@ -18,19 +18,19 @@
 
 | # | Pregunta | Dónde busqué | Fecha |
 |---|---|---|---|
-| 1 | ¿Qué plataformas existen actualmente para portafolios creativos? | Buscador web, App Store | 19-11-2026 |
-| 2 | ¿Qué modelos de negocio utilizan (gratis, publicidad,suscripción)? | Webs oficiales de las soluciones | 19-11-2026 |
-| 3 | ¿Qué tecnologías o carencias tienen que mi proyecto pueda mejorar? | Foros de diseño y reseñas | 19-11-2026 |
+| 1 | ¿Qué plataformas existen actualmente para portafolios creativos? | Buscador web, App Store | 2026-11-19 |
+| 2 | ¿Qué modelos de negocio utilizan (gratis, publicidad,suscripción)? | Webs oficiales de las soluciones | 2026-11-19 |
+| 3 | ¿Qué tecnologías o carencias tienen que mi proyecto pueda mejorar? | Foros de diseño y reseñas | 2026-11-19 |
 
 ## 2. Soluciones existentes (CE 1a, 1c, 2a)
 
 | Solución | Para quién | Qué hace | Modelo de precio | Enlace y fecha de acceso | Estado (`leído` / `sin leer`) |
 |---|---|---|---|---|---|
-| Pinterest | Público general y creadores visuales | Permite recopilar, organizar y descubrir imágenes mediante tableros y pines estéticos. | Gratuito con publicidad / Planes de pago empresariales | https://pinterest.com (acceso 19-11-2026) | `Leído` |
-| Behance | Diseñadores y agencias de todo el mundo | Red de portafolios profesionales para mostrar proyectos creativos completos y buscar empleo. | Gratuito (propiedad de Adobe) | https://behance.net (acceso 19-11-2026 | `Leído` |
-| Dribbble | Diseñadores UI/UX e ilustradores | Plataforma de exposición de trabajos cortos ("shots") y contratación de talento creativo. | Gratuito / Suscripción Pro mensual | https://dribbble.com (acceso 19-11-2026) | `Leído` |
-| Coolors | Diseñadores y desarrolladores web | Generador rápido de paletas de colores y explorador de tendencias cromáticas. | Freemium (gratis con limitaciones / suscripción Pro) | https://coolors.co (acceso 19-11-2026) | `Leído` |
-| Carpetas locales / Libretas | Cualquier creador gráfico o ilustrador | Almacenamiento local de archivos en el ordenador o bocetos en papel físico. | Gratis (recurso propio) | no aplica (solución no digital), 19-11-2026 | `Leído` |
+| Pinterest | Público general y creadores visuales | Permite recopilar, organizar y descubrir imágenes mediante tableros y pines estéticos. | Gratuito con publicidad / Planes de pago empresariales | https://pinterest.com (acceso 2026-11-19) | `leído` |
+| Behance | Diseñadores y agencias de todo el mundo | Red de portafolios profesionales para mostrar proyectos creativos completos y buscar empleo. | Gratuito (propiedad de Adobe) | https://behance.net (acceso 2026-11-19 | `leído` |
+| Dribbble | Diseñadores UI/UX e ilustradores | Plataforma de exposición de trabajos cortos ("shots") y contratación de talento creativo. | Gratuito / Suscripción Pro mensual | https://dribbble.com (acceso 2026-11-19) | `leído` |
+| Coolors | Diseñadores y desarrolladores web | Generador rápido de paletas de colores y explorador de tendencias cromáticas. | Freemium (gratis con limitaciones / suscripción Pro) | https://coolors.co (acceso 2026-11-19) | `leído` |
+| Carpetas locales / Libretas | Cualquier creador gráfico o ilustrador | Almacenamiento local de archivos en el ordenador o bocetos en papel físico. | Gratis (recurso propio) | no aplica (solución no digital), 2026-11-19 | `leído` |
 
 
 *Esquema de posicionamiento de las soluciones:*
@@ -87,8 +87,8 @@ Kreato cubre ese hueco combinando un feed visual optimizado con un sistema estri
 
 | # | Fuente (enlace) | Tipo | Fecha de acceso | Fiabilidad (alta / media / baja) y por qué |
 |---|---|---|---|---|
-| F1 | https://help.pinterest.com | Web oficial / Documentación | 19-11-2026 | Alta: Documentación directa de la plataforma de referencia sobre su funcionamiento de pines y tableros. |
-| F2 | https://www.behance.net | Plataforma de sector | 19-11-2026 | Alta: Análisis directo del estándar de mercado para portafolios de diseño gráfico. |
+| F1 | https://help.pinterest.com | Web oficial / Documentación | 2026-11-19 | Alta: Documentación directa de la plataforma de referencia sobre su funcionamiento de pines y tableros. |
+| F2 | https://www.behance.net | Plataforma de sector | 2026-11-19 | Alta: Análisis directo del estándar de mercado para portafolios de diseño gráfico. |
 
 ## 8. Límites
 
