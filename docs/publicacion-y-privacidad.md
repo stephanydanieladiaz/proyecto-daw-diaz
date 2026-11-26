@@ -18,7 +18,7 @@
 ## 2. Lista antes de publicar
 
 - [x] **Consentimiento** registrado: sé qué se publica, durante cuánto tiempo y cómo se retira.
-- [x] **Correo `noreply` de GitHub** en mis *commits* (Configuración → Correos → «Mantener mi dirección de correo privada»).
+- [ ] **Correo `noreply` de GitHub** en mis *commits* (Configuración → Correos → «Mantener mi dirección de correo privada»). Activado el 2026-11-26. Los *commits* de la primera subida (26-11-2026) muestran mi correo real: no se reescribe el historial para no romper el tag `h1`.
 - [x] **Sin datos personales reales** en el código, los datos de prueba, las capturas ni los documentos (nombres, correos, teléfonos, DNI, direcciones).
 - [x] **Sin claves, contraseñas, *tokens* ni cupones de examen**, ni en el repositorio **ni en su historial**.
 - [x] **Sin información de la empresa de prácticas**, salvo autorización escrita.
@@ -44,6 +44,7 @@ Para una entrevista conviene tu **nombre real**. Si prefieres no exponerlo, usa 
 | ¿Nombre real o alias? | Nombre real: Stephany Díaz (el nombre completo ya aparece en `docs/00-documentoInicio.md`). |
 | ¿Repositorio público o privado hasta la defensa (excepción)? | Público: se publica y se mantiene visible. |
 | ¿Dónde se guarda mi seguimiento? | Pendiente: el tutor aún no ha indicado si va en un repositorio privado compartido con él o en el aula virtual. |
+| ¿Uso correo `noreply` en los *commits*? | Sí desde el 2026-11-26. Los cinco *commits* del 26-11-2026 sí muestran mi correo real; se deja así y se avisa al tutor. |
 
 
 
