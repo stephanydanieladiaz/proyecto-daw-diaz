@@ -11,3 +11,5 @@ Plataforma web de inspiración visual y portafolios verificados para la comunida
 - [Documento de inicio](docs/00-documentoInicio.md)
 - [Análisis](docs/01-analisis.md)
 - [Estado del arte](docs/01b-sota.md)
+- [Publicación y privacidad de mi repositorio](docs/publicacion-y-privacidad.md)
+- [Registro de tutoría](docs/registro-tutoria.md)
