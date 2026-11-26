@@ -104,4 +104,3 @@ Está dirigida a estudiantes, diseñadores gráficos, ilustradores, artistas dig
 **Fecha:** 
 
 **Comentarios del tutor:**
-

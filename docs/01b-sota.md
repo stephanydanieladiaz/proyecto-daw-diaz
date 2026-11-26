@@ -18,9 +18,9 @@
 
 | # | Pregunta | Dónde busqué | Fecha |
 |---|---|---|---|
-| 1 | ¿Qué plataformas existen actualmente para portafolios creativos? | Buscador web, App Store | 2026-11-19 |
-| 2 | ¿Qué modelos de negocio utilizan (gratis, publicidad,suscripción)? | Webs oficiales de las soluciones | 2026-11-19 |
-| 3 | ¿Qué tecnologías o carencias tienen que mi proyecto pueda mejorar? | Foros de diseño y reseñas | 2026-11-19 |
+| 1 | ¿Qué plataformas existen actualmente para portafolios creativos? | Buscador web, App Store | 19-11-2026 |
+| 2 | ¿Qué modelos de negocio utilizan (gratis, publicidad,suscripción)? | Webs oficiales de las soluciones | 19-11-2026 |
+| 3 | ¿Qué tecnologías o carencias tienen que mi proyecto pueda mejorar? | Foros de diseño y reseñas | 19-11-2026 |
 
 ## 2. Soluciones existentes (CE 1a, 1c, 2a)
 
@@ -87,8 +87,8 @@ Kreato cubre ese hueco combinando un feed visual optimizado con un sistema estri
 
 | # | Fuente (enlace) | Tipo | Fecha de acceso | Fiabilidad (alta / media / baja) y por qué |
 |---|---|---|---|---|
-| F1 | https://help.pinterest.com | Web oficial / Documentación | 2026-11-19 | Alta: Documentación directa de la plataforma de referencia sobre su funcionamiento de pines y tableros. |
-| F2 | https://www.behance.net | Plataforma de sector | 2026-11-19 | Alta: Análisis directo del estándar de mercado para portafolios de diseño gráfico. |
+| F1 | https://help.pinterest.com | Web oficial / Documentación | 19-11-2026 | Alta: Documentación directa de la plataforma de referencia sobre su funcionamiento de pines y tableros. |
+| F2 | https://www.behance.net | Plataforma de sector | 19-11-2026 | Alta: Análisis directo del estándar de mercado para portafolios de diseño gráfico. |
 
 ## 8. Límites
 

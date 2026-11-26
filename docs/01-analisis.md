@@ -55,7 +55,7 @@ Los diseñadores gráficos, ilustradores y creadores visuales sufren la pérdida
 | **4** | Espacio de comunidad y visualización limpia sin saturación publicitaria | Quejas públicas sobre plataformas masivas | Mejora la experiencia de inspiración frente a entornos altamente mercantilizados y repletos de anuncios. |
 
 ### Dato cuantitativo y análisis de oportunidad
-* **Dato de mercado:** Según las estadísticas culturales de **Eurostat** sobre empleo en el sector creativo y cultural, Europa cuenta con más de **7,7 millones de profesionales** dedicados a actividades creativas y de diseño, un sector altamente digitalizado pero fragmentado en cuanto a herramientas de inspiración independientes (Fuente: *Eurostat - Culture statistics*, acceso 2026-11-19, https://ec.europa.eu/eurostat).
+* **Dato de mercado:** Según las estadísticas culturales de **Eurostat** sobre empleo en el sector creativo y cultural, Europa cuenta con más de **7,7 millones de profesionales** dedicados a actividades creativas y de diseño, un sector altamente digitalizado pero fragmentado en cuanto a herramientas de inspiración independientes (Fuente: *Eurostat - Culture statistics*, acceso 19-11-2026, https://ec.europa.eu/eurostat).
 * **Valoración de la oportunidad:** Existe una demanda clara y desatendida por parte de estudios independientes e ilustradores que buscan una plataforma propia donde inspirarse y mostrar su proceso sin quedar sepultados por los algoritmos publicitarios de las grandes redes generalistas.
 
 ---
@@ -75,6 +75,15 @@ Para dar respuesta a las necesidades del sector, se han valorado tres posibles a
 
 ## 4. Requisitos y restricciones (CE 1f)
 
+### Objetivos y cómo se miden
+
+| ID | Objetivo | Cómo se mide |
+|---|---|---|
+| OBJ-01 | Facilitar la búsqueda visual de proyectos | Tiempo que tarda el feed en actualizarse al aplicar un filtro, medido con las DevTools: menos de 1 s (RF-02). |
+| OBJ-02 | Garantizar la autoría del contenido | La insignia «Autor verificado» aparece en el detalle del 100 % de las obras de prueba (RF-03). |
+| OBJ-03 | Permitir la publicación de obras | Se publican 3 proyectos de prueba con imagen, título, etiquetas y paleta, y los 3 aparecen en el feed (RF-04). |
+| OBJ-04 | Garantizar calidad y rendimiento web | Lighthouse marca menos de 3 s de carga y la vista se ve bien en 3 anchos de pantalla (RNF-01, RNF-02). |
+
 | ID | Requisito | Tipo (funcional / no funcional / restricción) | Cómo se verifica |
 |---|---|---|---|
 | RF-01 | El sistema debe permitir explorar un feed visual de proyectos en formato de retícula adaptable (masonry) | funcional | Comprobando visualmente que las tarjetas se adaptan al cambiar el tamaño de la ventana del navegador. |
@@ -83,7 +92,7 @@ Para dar respuesta a las necesidades del sector, se han valorado tres posibles a
 | RF-04 | El formulario de subida permitirá adjuntar imágenes, título, etiquetas y la paleta de colores asociada al proyecto| funcional | Rellenando el formulario de prueba y comprobando que el proyecto aparece publicado con sus datos corrector.|
 | RNF-01 | La aplicación web debe cargar la página principal en menos de 3 segundos. | no funcional | Medición mediante las Herramientas de Desarrollador de Google Lighthouse.|
 |RNF-02 | La interfaz debe ofrecer soporte adaptativo (responsive design) para dispositivos móviles, tablets y escritorios| no funcional | Pruebas manuales de redimensionado de pantalla y visualización en dispositivos reales o emulador.|
-| REST-01 | El proyecto debe entregarse y desplegarse de manera funcional antes del 31 de marzo del 2026 | restricción | Verificando la fecha de entrega y el enlace de despliegue activo en Vercel/Netlify |
+| REST-01 | El proyecto debe entregarse y desplegarse de manera funcional antes del 31 de marzo del 2027 | restricción | Verificando la fecha de entrega y el enlace de despliegue activo en Vercel/Netlify |
 |REST-2 | El desarrollo debe realizarse utilizando control de versiones con Git y flujos de trabajo mediante Pull Request| restricción | Comprobando el historial de commits y los PRs aprobados en el repositorio de GitHub.|
 
 ### Matriz de trazabilidad
@@ -98,31 +107,37 @@ Para dar respuesta a las necesidades del sector, se han valorado tres posibles a
 | OBJ-04 Garantizar calidad y rendimiento web | RNF-02 | Adaptabilidad visual | Todas las vistas (Responsive)| pendiente |
 ## 5. Obligaciones fiscales, laborales y de prevención (CE 1g)
 
-- **Ámbito fiscal**: Como el proyecto se plantea en una primera fase como prototipo académico y sin ánimo de lucro, no requiere alta censal inmediata en el Impuesto de Actividades Económicas (IAE) ni obligaciones de IVA, las cuales aplicarían únicamente en caso de comercialización futura como autónomo o sociedad (Ley 37/1992 del IVA).
-
-- **Ámbito laboral**: Si el proyecto evolucionase a empresa, se regiría por el Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015) y el convenio colectivo correspondiente a empresas de consultoría y tecnologías de la información.
-
-- **Prevención de riesgos laborales**: Cumplimiento de la Ley 31/1995 de Prevención de Riesgos Laborales, aplicando ergonomía informática y pausas recomendadas en puestos de trabajo de oficina con pantallas de visualización de datos (PVD).
+| Norma | Qué obliga en el proyecto | Enlace y fecha de acceso | Estado |
+|---|---|---|---|
+| Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido | Alta censal (IAE) e IVA solo si se comercializa; como prototipo académico sin ánimo de lucro, todavía no se aplican. | https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740 (acceso 2026-11-26) | `leído` |
+| Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores | Contrato y convenio de consultoría y TI solo si el proyecto pasa a tener personal. | https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430 (acceso 2026-11-26) | `leído` |
+| Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales | Ergonomía informática y pausas en el puesto con pantallas de visualización de datos (PVD). | https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292 (acceso 2026-11-26) | `leído` |
 
 ## 6. Ayudas y subvenciones (CE 1h)
 
-- Ayuda: Programa Kit Digital (financiado por la Unión Europea – Next Generation EU, gestionado por Red.es) / Subvenciones autonómicas al emprendimiento innovador (como las líneas del Instituto de Desarrollo Económico del Principado de Asturias - Sekuens, o equivalentes locales).
+| Ayuda | Estado | Enlace y fecha de acceso | Requisitos | Plazo |
+|---|---|---|---|---|
+| Kit Digital (Red.es) | Convocatorias finalizadas | https://www.acelerapyme.gob.es/kit-digital (acceso 2026-11-26) | Pymes, microempresas y autónomos | Cerrado |
+| Kit Consulting (Red.es) | Convocatoria finalizada | https://sede.red.gob.es/es/convocatorias-y-ayudas (acceso 2026-11-26) | Pymes de 10 a 249 empleados | Cerrado |
+| ENISA Emprendedoras Digitales (préstamo participativo) | Abierta | https://www.enisa.es (acceso 2026-11-26) | Sociedad mercantil pyme con domicilio en España, mujer en el liderazgo, fondos propios iguales o mayores que el préstamo y cuentas depositadas | Hasta el 31-12-2026 |
 
-- Requisitos: En caso de constituirse como autónomo o microempresa para explotar la plataforma, estar dado de alta en el censo de empresarios, hallarse al corriente de las obligaciones tributarias y con la Seguridad Social, y no superar el límite de ayudas de minimis.
-
-- Plazo: Convocatorias abiertas de forma continua o periódica según publicación en el BOE / Boletín Oficial autonómico correspondiente durante el ejercicio vigente.
+El préstamo de ENISA no es una subvención: se devuelve. Además exige constituir una sociedad, así que solo aplicaría si el proyecto pasa a ser una empresa. Las ayudas de Sekuens para Asturias cerraron en abril y mayo de 2026.
 
 ## 7. Guion de trabajo (CE 1i)
 
-El proyecto se desarrolla de manera individual (Responsable: Stephany Díaz) siguiendo una planificación iterativa gestionada mediante el tablero de GitHub Projects:
+El proyecto se desarrolla de manera individual (responsable: Stephany Díaz) con una planificación iterativa en el tablero de GitHub Projects.
 
-- Hito 1 (Entrega: 26-nov-2026) — Análisis y Estado del Arte: Definición del problema, estudio de mercado (01b-sota.md), análisis de requisitos y documentación inicial (01-analisis.md).
+| # | Fase | Desde | Hasta | Entrega | Responsable |
+|---|---|---|---|---|---|
+| 1 | Análisis del sector y estado del arte | — | 2026-11-26 | H1 | Stephany Díaz |
+| 2 | Diseño UI/UX, guía de estilos y prototipo en Figma | 2026-11-27 | 2027-01-21 | H2 | Stephany Díaz |
+| 3 | Estructura de datos (JSON/LocalStorage) y arquitectura | 2027-01-22 | 2027-02-05 | — | Stephany Díaz |
+| 4 | Maquetación responsive (HTML5 + Tailwind CSS) | 2027-02-06 | 2027-02-20 | H3 | Stephany Díaz |
+| 5 | Feed, filtros por etiqueta y color, colecciones | 2027-02-21 | 2027-03-10 | — | Stephany Díaz |
+| 6 | Pruebas y accesibilidad (Lighthouse, responsive) | 2027-03-11 | 2027-03-20 | — | Stephany Díaz |
+| 7 | Despliegue en Vercel/Netlify y memoria | 2027-03-21 | 2027-03-31 | Entrega final | Stephany Díaz |
 
-- Hito 2 — Diseño UI/UX y Arquitectura: Creación de wireframes, guía de estilos (tipografía, paleta) y prototipo interactivo de las pantallas principales en Figma.
-
-- Hito 3 — Desarrollo del MVP (Versión Mínima): Maquetación responsive con HTML5 y Tailwind CSS, implementación de la retícula masonry, filtros por etiqueta/color y carga dinámica de datos.
-
-- Hito 4 (Entrega límite: 31-mar-2026) — Pruebas y Despliegue: Verificación de todos los requisitos (Lighthouse, responsive), corrección de errores y despliegue en producción en Vercel/Netlify.
+Las fechas de H1, de H2 y de la entrega final salen de la planificación del módulo. La fecha exacta de H3 la fija el profesor: queda pendiente hasta que la comunique.
 
 ## 8. Glosario
 
@@ -132,6 +147,7 @@ El proyecto se desarrolla de manera individual (Responsable: Stephany Díaz) sig
 | Paleta cromática | Conjunto de colores principales extraídos o asociados a un proyecto gráfico que definen su armonía visual. | Gama de tintes, espectro de colores |
 | Pull Request | Petición formal dentro de GitHub para revisar e integrar los cambios de una rama de desarrollo hacia la rama principal (main). | Subida directa, fusión de archivos, actualización de rama |
 | Wireframe | Esquema visual básico de baja o media fidelidad que muestra la estructura de una página web sin entrar en detalles de diseño estético. | Boceto feo, plano estructural, mapa de grises |
+| Autoría verificada | Mecanismo por el que una obra publicada queda ligada a su autor real mediante una insignia visible en el perfil y en la ficha de la obra. | Sello de originalidad, verificación de artista, marca de autor |
 
 
 ---
